@@ -1,6 +1,10 @@
+# 项目介绍
+
 这是从0开始配置的项目，webpack的配置是基于 tc_aciton 项目，所以需要 npm 安装对应的依赖。
 
-## 1，从0开始手动构建项目，
+## 第32节，创建项目
+
+### 1，从0开始手动构建项目，
 
 1，先安装react的依赖，和对应的声明文件
 ```
@@ -60,7 +64,7 @@ optimization: {
 
 ---
 
-## 2，使用create-react-app 脚手架工具构建项目
+### 2，使用create-react-app 脚手架工具构建项目
 
 npx命令，
 
@@ -75,7 +79,7 @@ npx命令，
 npx create-react-app ts_react_app --typescript
 ```
 
-## 3，使用npx遇到的问题，
+### 3，使用npx遇到的问题，
 
 系统环境为 Windows10
 
@@ -103,3 +107,5 @@ npm config list
 ```
 npm config set cache "C:\ProgramNodejs\nodejs\node_cache"
 ```
+
+课程后半段接 [ts_react_app 项目](https://github.com/crane0/ts_react_app)
