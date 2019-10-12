@@ -108,4 +108,6 @@ npm config list
 npm config set cache "C:\ProgramNodejs\nodejs\node_cache"
 ```
 
+--- 
+
 课程后半段接 [ts_react_app 项目](https://github.com/crane0/ts_react_app)
