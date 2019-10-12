@@ -97,8 +97,6 @@ Could not install from "Files\nodejs\node_cache\_npx\12084" as it does not conta
 npm config list
 ```
 
----
-
 解决：[参考](https://blog.csdn.net/winne_shen/article/details/83686840)
 
 更改node的cache所在路径即可。
